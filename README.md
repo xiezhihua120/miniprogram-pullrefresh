@@ -1,6 +1,6 @@
 # wx-pulltorefresh-view
 
-> wx-pulltorefresh-view是小程序基础组件的扩展，不定期更新
+> 参考wx-pulltorefresh-view，上拉不好用修改了一下
 
 ## 组件简介
 
