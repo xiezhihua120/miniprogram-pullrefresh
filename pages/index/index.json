@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "pullrefresh-view": "../../components/wx-pullrefresh-view/wx-pullrefresh-view"
+  }
+}
